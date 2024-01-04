@@ -23,7 +23,7 @@ public class NguyenBrad extends Animal
       return "meow";
   }
   
-  public String getDiposition() {
-      return "cat";
+  public String getDisposition() {
+      return "cat-ing";
   }
 }
